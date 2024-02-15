@@ -187,7 +187,7 @@ const MainLayout = () => {
                 <img
                   width={32}
                   height={32}
-                  src="https://stroyka-admin.html.themeforest.scompiler.ru/variants/ltr/images/customers/customer-4-64x64.jpg"
+                  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbdwi4pgmJYQTssSAW287IThxUNYuHfprfpsiRK23AcOvVef_TymtKqDdtW3Ztl68OW80&usqp=CAU"
                   alt=""
                 />
               </div>
